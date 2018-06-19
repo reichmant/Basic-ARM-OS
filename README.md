@@ -1,6 +1,6 @@
 # Basic-ARM-OS
 ## Description
-This is a primitive, Unix-like clone operating system built for ARM in C. It features the basic parts of an operating system, such as consecutive job execution and handling.
+This is a primitive, Unix-like operating system built for ARM in C. It features the basic parts of an operating system, such as consecutive job execution and handling.
 
 Overall, the OS isequipped to create, run, and kill processes. This is demonstrated by initializing the first job specified in the p2test file.
 
